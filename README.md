@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h2 align="center">A stundent from SMK TI Pelita Nusantara</h2>
+<h3 align="center">I've made a simple gorcery store website</h3>
 
-<h3 align="center">Website Preview </h3>
+<h3 align="center">Website Preview</h3>
 
 
 ![WhatsApp Image 2023-05-11 at 23 59 19](https://github.com/henryjonathnn/Grocery-Store-by-Jonathan/assets/106151486/012460a3-2288-4a92-9f07-9f9106f33221)
